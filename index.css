@@ -50,7 +50,7 @@
 .hero{
     background: 
         linear-gradient(rgba(98, 0, 255, 0), skyblue),
-        url("/Images/christopher-gower-m_HRfLhgABo-unsplash.jpg");
+        url("/images/christopher-gower-m_HRfLhgABo-unsplash.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -65,7 +65,7 @@
   border-radius:100%;
   margin-top:-400px;
   margin-left:150px;
-  background: url("/Images/Confident\ young\ man\ in\ green\ shirt.png");
+  background: url("/images/Confident\ young\ man\ in\ green\ shirt.png");
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
